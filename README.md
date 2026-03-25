@@ -11,3 +11,9 @@ Tasks like sending updates or reminders can be automated using simple workflows,
 Complex data outputs can be transformed into simple dashboards to make them easier for non-technical users to understand.
 ## Goal
 To explore how automation and simple tools can reduce manual work and improve efficiency in real-world tasks.
+
+
+## Next Steps
+- Build simple Python scripts to automate data cleaning
+- Explore low-code tools for workflow automation
+- Improve integration between data and reporting tools
